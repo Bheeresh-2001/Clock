@@ -51,7 +51,7 @@ body{
     width: 1%;
     top: 32%;
     margin-left: 49.4%;
-    background-color: aqua;
+    background-color: black;
     /* display: none; */
 }
 #minute{
@@ -59,7 +59,7 @@ body{
     width: 1%;
     top: 29%;
     margin-left: 49.4%;
-    background-color: red;
+    background-color: black;
     /* display: none; */
 }
 #second{
@@ -67,6 +67,6 @@ body{
     width: 1%;
     top: 26%;
     margin-left: 49.4%;
-    background-color: yellow;
+    background-color: black;
     /* display: none; */
 }
